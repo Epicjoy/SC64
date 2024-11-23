@@ -21,6 +21,6 @@ Experience classic gaming in a new way! SummerCart64 is a fully open-source flas
 
 ### Example
 
-![2](D:\工程文件\Nintendo\N64\summer cart 64\SC64\assets\2.jpg)
+![2](assets/2.jpg)
 
-![7](D:\工程文件\Nintendo\N64\summer cart 64\SC64\assets\7.jpg)
+![7](assets/7.jpg)
