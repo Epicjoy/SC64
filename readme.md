@@ -23,4 +23,3 @@ Experience classic gaming in a new way! SummerCart64 is a fully open-source flas
 
 ![2](assets/2.jpg)
 
-![7](assets/7.jpg)
